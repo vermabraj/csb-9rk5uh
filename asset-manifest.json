@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vermabraj.github.io/csb-9rk5uh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://vermabraj.github.io/csb-9rk5uh/static/js/main.701b47fd.chunk.js",
+    "main.js.map": "https://vermabraj.github.io/csb-9rk5uh/static/js/main.701b47fd.chunk.js.map",
+    "runtime-main.js": "https://vermabraj.github.io/csb-9rk5uh/static/js/runtime-main.5e8b4123.js",
+    "runtime-main.js.map": "https://vermabraj.github.io/csb-9rk5uh/static/js/runtime-main.5e8b4123.js.map",
+    "static/js/2.6803c3de.chunk.js": "https://vermabraj.github.io/csb-9rk5uh/static/js/2.6803c3de.chunk.js",
+    "static/js/2.6803c3de.chunk.js.map": "https://vermabraj.github.io/csb-9rk5uh/static/js/2.6803c3de.chunk.js.map",
+    "index.html": "https://vermabraj.github.io/csb-9rk5uh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://vermabraj.github.io/csb-9rk5uh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6803c3de.chunk.js.LICENSE.txt": "https://vermabraj.github.io/csb-9rk5uh/static/js/2.6803c3de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e8b4123.js",
+    "static/js/2.6803c3de.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.701b47fd.chunk.js"
+  ]
+}
